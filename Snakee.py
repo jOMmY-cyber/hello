@@ -5,7 +5,7 @@ from pygame import *
 pygame.init()
 
 
-screen = pygame.display.set_mode([300, 300])
+screeny = pygame.display.set_mode([300, 300])
 clock = pygame.time.Clock()
 running = True
 red = (255,0,0)
